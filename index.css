@@ -1,0 +1,39 @@
+h1{
+  color: maroon;
+  
+}
+
+#about{
+  background: white;
+}
+
+#show{
+  background: grey;
+  
+}
+
+#show{
+  
+}
+
+body {
+  background:#95DEE8;
+  font-size: 20px;
+}
+
+.container{
+  margin:20px;
+  padding:20px;
+}
+
+ .small container{
+   min-height: 50vh;
+   padding-top: 30vh;
+   text-align: center;
+   list-style-position: inside;
+   background: white;
+}
+
+#navbar{
+  position: fixed;
+  
